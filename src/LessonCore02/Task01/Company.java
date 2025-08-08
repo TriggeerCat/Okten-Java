@@ -1,4 +1,4 @@
-package LessonCore2.Task01;
+package LessonCore02.Task01;
 
 import lombok.*;
 

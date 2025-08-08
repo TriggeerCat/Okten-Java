@@ -1,4 +1,4 @@
-package LessonCore2.Task03;
+package LessonCore02.Task03;
 
 public enum Gender {
     MALE,

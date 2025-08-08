@@ -1,6 +1,6 @@
-package LessonCore2.Task02;
+package LessonCore02.Task02;
 
-import LessonCore2.Task01.Company;
+import LessonCore02.Task01.Company;
 import lombok.*;
 
 @NoArgsConstructor
