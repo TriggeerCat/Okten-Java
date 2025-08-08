@@ -1,4 +1,4 @@
-﻿package LessonCore01.Task05;
+package LessonCore01.Task05;
 
 public class Car {
     private int id;

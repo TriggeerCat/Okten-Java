@@ -1,4 +1,4 @@
-﻿package LessonCore01.Task03;
+package LessonCore01.Task03;
 
 import java.util.ArrayList;
 

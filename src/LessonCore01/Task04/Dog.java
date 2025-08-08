@@ -1,4 +1,4 @@
-﻿package LessonCore01.Task04;
+package LessonCore01.Task04;
 
 public class Dog {
     private int id;
