@@ -1,0 +1,10 @@
+Alice 19 1
+Bob 20 2
+Charlie 21 3
+Diana 22 4
+Ethan 18 1
+Fiona 19 2
+George 20 3
+Hannah 21 4
+Ian 18 1
+Jasmine 22 3

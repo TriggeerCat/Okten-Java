@@ -1,0 +1,4 @@
+Math 101 (Ethan 5) (Bob 2) (Ian 9) (Fiona 6)
+Physics 102 (Charlie 3) (Alice 1) (Diana 4)
+Chemistry 103 (Jasmine 10) (Hannah 8) (Fiona 6) (Bob 2) (Diana 4)
+History 104 (Alice 1) (George 7) (Ian 9)
